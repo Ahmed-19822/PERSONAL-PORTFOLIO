@@ -188,7 +188,7 @@ header{
 @media (max-width:600px){
   header {
     gap: 150px;
-    margin-left: 50px;
+    margin-left: 170px;
 
  }
  .nav ul{
@@ -226,7 +226,7 @@ header{
  }
  .education{
     margin-top: 140px;
-    margin-left: 140px;
+    margin-left: 170px;
  }
  .projects{
     display: block;
@@ -239,10 +239,10 @@ header{
  }
  .exp{
     width: 400px;
-    margin-left: 160px;
+    margin-left: 140px;
  }
  .contect{
-    margin-left: 50px;
+    margin-left: 90px;
  }
  .dis{
     display: none;
